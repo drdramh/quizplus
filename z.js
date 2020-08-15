@@ -1,1 +1,1 @@
-z.innerHTML = "Ahmed"
+document.getElementById("z").innerHTML = "Ahmed"
