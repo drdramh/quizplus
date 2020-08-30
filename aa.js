@@ -1,3 +1,3 @@
-var ahmed = "mabrookRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+var ahmed = "DDDDDDDDDDDDDDD";
 
 document.getElementById("dbg").innerHTML = ahmed;
